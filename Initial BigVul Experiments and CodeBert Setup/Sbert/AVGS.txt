@@ -1,0 +1,4 @@
+3774
+Average of first score: 0.3961
+Average of second score: 0.3710
+Average of third score: 0.3574

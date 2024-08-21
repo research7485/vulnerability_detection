@@ -1,0 +1,3 @@
+Average of first score: 0.3975
+Average of second score: 0.3713
+Average of third score: 0.3524

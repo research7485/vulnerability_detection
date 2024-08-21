@@ -1,0 +1,10 @@
+Number of sentences1: 958
+Number of sentences2: 15362
+Embeddings_done
+# Skipped: 3774 this row will change
+Count: 14716796
+Score sum: 1624097.4276
+Average score: 0.1104
+
+
+# 98% being removed
